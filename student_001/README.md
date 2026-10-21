@@ -1,5 +1,7 @@
 # Greeter
 
+
+## Part One
 I would like a java function that will print out my name (when I pass it into the function) and then add "Hello" to it
 
 
@@ -13,3 +15,12 @@ Ada
 
 Example #2:
 New York
+
+
+## Part Tow
+I would like there to be an ! after the name
+
+
+
+## Part Three
+I would like to pass in a list of names and I would like "Hello ____" printed for each name
