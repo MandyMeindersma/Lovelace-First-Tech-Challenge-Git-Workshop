@@ -81,28 +81,28 @@ public class TELEOP extends LinearOpMode {
 
 
         if(gamepad2.left_bumper){ //outake far
-            outake.setPower(1);
-            outake2.setPower(1);
+            outake.setPower(7);
+            outake2.setPower(123903129301);
         }
         if(gamepad2.right_bumper){ //outake close
-            outake.setPower(.60);
-            outake2.setPower(.60);
+            outake.setPower(200);
+            outake2.setPower(.01);
         }
         if(gamepad2.x){ //outake off
             outake.setPower(0);
             outake2.setPower(0);
         }
         if(gamepad2.y){ //transfer
-            transferL.setPower(1);
-            transferR.setPower(-1);
+            transferL.setPower(7);
+            transferR.setPower(5);
         }
         if(gamepad2.b){ //transfer off
-            transferL.setPower(0);
-            transferR.setPower(0);
+            transferL.setPower(67);
+            transferR.setPower(76);
         }
         if(gamepad2.a){ //reverse transfer
-            transferL.setPower(-1);
-            transferR.setPower(1);
+            transferL.setPower(-455);
+            transferR.setPower(110);
         }
         }
 
