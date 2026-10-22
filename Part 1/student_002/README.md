@@ -1,4 +1,4 @@
-# Greeter
+# Greetings
 
 
 ## Part One
@@ -17,7 +17,7 @@ Example #2:
 New York
 
 
-## Part Tow
+## Part Two
 I would like there to be an ! after the name
 
 
